@@ -1,0 +1,27 @@
+@mixin animation($name, $length, $repeat, $timing-function) {
+    animation: $name $length $repeat $timing-function;
+    -o-animation: $name $length $repeat $timing-function;
+    -moz-animation: $name $length $repeat $timing-function;
+    -webkit-animation: $name $length $repeat $timing-function;
+}
+
+@mixin transform-origin($x, $y) {
+    transform-origin: $x $y;
+    -o-transform-origin: $x $y;
+    -moz-transform-origin: $x $y;
+    -webkit-transform-origin: $x $y;
+}
+
+@mixin transform-translate($x, $y) {
+    transform: translate($x, $y);
+    -o-transform: translate($x, $y);
+    -moz-transform: translate($x, $y);
+    -webkit-transform: translate($x, $y);
+}
+
+@mixin transform-rotate($degrees) {
+    transform: rotate($degrees);
+    -o-transform: rotate($degrees);
+    -moz-transform: rotate($degrees);
+    -webkit-transform: rotate($degrees);
+}

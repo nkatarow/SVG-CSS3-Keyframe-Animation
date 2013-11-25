@@ -1,0 +1,11 @@
+{
+  "name": "SVG-CSS3-Keyframe-Animation",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "0.2.2rc7",
+    "grunt-contrib-watch": "0.2.0rc7",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-shell": "~0.2.2"
+  }
+}

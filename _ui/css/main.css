@@ -1,0 +1,655 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\000031}}
+.light {
+  fill: #f7edba;
+  stroke: #edde8b;
+  opacity: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\000036}}
+.light.animate {
+  animation: spotlight 1s 1 linear;
+  -o-animation: spotlight 1s 1 linear;
+  -moz-animation: spotlight 1s 1 linear;
+  -webkit-animation: spotlight 1s 1 linear;
+  fill: #f7edba;
+  stroke: #edde8b;
+  opacity: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000314}}
+.bulb {
+  fill: #ffffff;
+  stroke: #4D4D4D;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000318}}
+.bulb.animate {
+  animation: bulbcolor 1s 1 linear;
+  -o-animation: bulbcolor 1s 1 linear;
+  -moz-animation: bulbcolor 1s 1 linear;
+  -webkit-animation: bulbcolor 1s 1 linear;
+  fill: #f7edba;
+  stroke: #edde8b;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000325}}
+.arm-one {
+  transform-origin: 220px 14px;
+  -o-transform-origin: 220px 14px;
+  -moz-transform-origin: 220px 14px;
+  -webkit-transform-origin: 220px 14px;
+  transform: translate(-11px, 12px);
+  -o-transform: translate(-11px, 12px);
+  -moz-transform: translate(-11px, 12px);
+  -webkit-transform: translate(-11px, 12px);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000329}}
+.arm-one.animate {
+  animation: first-arm 1s 1 linear;
+  -o-animation: first-arm 1s 1 linear;
+  -moz-animation: first-arm 1s 1 linear;
+  -webkit-animation: first-arm 1s 1 linear;
+  transform-origin: 220px 14px;
+  -o-transform-origin: 220px 14px;
+  -moz-transform-origin: 220px 14px;
+  -webkit-transform-origin: 220px 14px;
+  transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000335}}
+.arm-two {
+  transform-origin: 286px 79px;
+  -o-transform-origin: 286px 79px;
+  -moz-transform-origin: 286px 79px;
+  -webkit-transform-origin: 286px 79px;
+  transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000339}}
+.arm-two.animate {
+  animation: second-arm 1s 1 linear;
+  -o-animation: second-arm 1s 1 linear;
+  -moz-animation: second-arm 1s 1 linear;
+  -webkit-animation: second-arm 1s 1 linear;
+  transform-origin: 286px 79px;
+  -o-transform-origin: 286px 79px;
+  -moz-transform-origin: 286px 79px;
+  -webkit-transform-origin: 286px 79px;
+  transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000345}}
+.connector {
+  transform: translate(-11px, 17px);
+  -o-transform: translate(-11px, 17px);
+  -moz-transform: translate(-11px, 17px);
+  -webkit-transform: translate(-11px, 17px);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000348}}
+.connector.animate {
+  animation: mount 1s 1 linear;
+  -o-animation: mount 1s 1 linear;
+  -moz-animation: mount 1s 1 linear;
+  -webkit-animation: mount 1s 1 linear;
+  transform: translate(0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -moz-transform: translate(0px, 0px);
+  -webkit-transform: translate(0px, 0px);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000353}}
+.lamp-head {
+  transform-origin: 195px 58px;
+  -o-transform-origin: 195px 58px;
+  -moz-transform-origin: 195px 58px;
+  -webkit-transform-origin: 195px 58px;
+  transform: rotate(-35deg);
+  -o-transform: rotate(-35deg);
+  -moz-transform: rotate(-35deg);
+  -webkit-transform: rotate(-35deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nickkatarow\/Sites\/SVG-CSS3-Keyframe-Animation\/_ui\/css\/scss\/_animations\.scss}line{font-family:\0000357}}
+.lamp-head.animate {
+  animation: can 1s 1 linear;
+  -o-animation: can 1s 1 linear;
+  -moz-animation: can 1s 1 linear;
+  -webkit-animation: can 1s 1 linear;
+  transform-origin: 188px 40px;
+  -o-transform-origin: 188px 40px;
+  -moz-transform-origin: 188px 40px;
+  -webkit-transform-origin: 188px 40px;
+  transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+}
+
+@-webkit-keyframes rotation {
+  /* line 65, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -webkit-transform: rotate(0deg);
+    border-top: 3px solid rgba(99, 99, 99, 0);
+    border-left: 3px solid rgba(99, 99, 99, 0);
+    border-right: 3px solid rgba(99, 99, 99, 0);
+    border-bottom: 3px solid rgba(99, 99, 99, 0);
+  }
+
+  /* line 72, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  33% {
+    -webkit-transform: rotate(120deg);
+    border-left: 3px solid #636363;
+  }
+
+  /* line 76, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  66% {
+    -webkit-transform: rotate(240deg);
+    border-right: 3px solid #636363;
+  }
+
+  /* line 80, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    -webkit-transform: rotate(359deg);
+    border-bottom: 3px solid #636363;
+  }
+}
+
+@-moz-keyframes rotation {
+  /* line 87, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -moz-transform: rotate(0deg);
+    border-top: 3px solid rgba(99, 99, 99, 0);
+    border-left: 3px solid rgba(99, 99, 99, 0);
+    border-right: 3px solid rgba(99, 99, 99, 0);
+    border-bottom: 3px solid rgba(99, 99, 99, 0);
+  }
+
+  /* line 94, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  33% {
+    -moz-transform: rotate(120deg);
+    border-left: 3px solid #636363;
+  }
+
+  /* line 98, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  66% {
+    -moz-transform: rotate(240deg);
+    border-right: 3px solid #636363;
+  }
+
+  /* line 102, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    -moz-transform: rotate(359deg);
+    border-bottom: 3px solid #636363;
+  }
+}
+
+@-o-keyframes rotation {
+  /* line 109, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -o-transform: rotate(0deg);
+    border-top: 3px solid rgba(99, 99, 99, 0);
+    border-left: 3px solid rgba(99, 99, 99, 0);
+    border-right: 3px solid rgba(99, 99, 99, 0);
+    border-bottom: 3px solid rgba(99, 99, 99, 0);
+  }
+
+  /* line 116, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  33% {
+    -o-transform: rotate(120deg);
+    border-left: 3px solid #636363;
+  }
+
+  /* line 120, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  66% {
+    -o-transform: rotate(240deg);
+    border-right: 3px solid #636363;
+  }
+
+  /* line 124, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    -o-transform: rotate(359deg);
+    border-bottom: 3px solid #636363;
+  }
+}
+
+@keyframes rotation {
+  /* line 131, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    transform: rotate(0deg);
+    border-top: 3px solid rgba(99, 99, 99, 0);
+    border-left: 3px solid rgba(99, 99, 99, 0);
+    border-right: 3px solid rgba(99, 99, 99, 0);
+    border-bottom: 3px solid rgba(99, 99, 99, 0);
+  }
+
+  /* line 138, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  33% {
+    transform: rotate(120deg);
+    border-left: 3px solid #636363;
+  }
+
+  /* line 142, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  66% {
+    transform: rotate(240deg);
+    border-right: 3px solid #636363;
+  }
+
+  /* line 146, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    transform: rotate(359deg);
+    border-bottom: 3px solid #636363;
+  }
+}
+
+@keyframes first-arm {
+  /* line 154, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    transform-origin: 220px 14px;
+    transform: translate(-11px, 12px);
+  }
+
+  /* line 158, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    transform-origin: 220px 14px;
+    transform: rotate(0deg);
+  }
+}
+
+@-o-keyframes first-arm {
+  /* line 164, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -o-transform-origin: 220px 14px;
+    -o-transform: translate(-11px, 12px);
+  }
+
+  /* line 168, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -o-transform-origin: 220px 14px;
+    -o-transform: rotate(0deg);
+  }
+}
+
+@-moz-keyframes first-arm {
+  /* line 174, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -moz-transform-origin: 220px 14px;
+    -moz-transform: translate(-11px, 12px);
+  }
+
+  /* line 178, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -moz-transform-origin: 220px 14px;
+    -moz-transform: rotate(0deg);
+  }
+}
+
+@-webkit-keyframes first-arm {
+  /* line 184, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -webkit-transform-origin: 220px 14px;
+    -webkit-transform: translate(-11px, 12px);
+  }
+
+  /* line 188, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -webkit-transform-origin: 220px 14px;
+    -webkit-transform: rotate(0deg);
+  }
+}
+
+@keyframes second-arm {
+  /* line 197, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    transform-origin: 286px 79px;
+    transform: rotate(-10deg);
+  }
+
+  /* line 201, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    transform-origin: 286px 79px;
+    transform: rotate(0deg);
+  }
+}
+
+@-o-keyframes second-arm {
+  /* line 207, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -o-transform-origin: 286px 79px;
+    -o-transform: rotate(-10deg);
+  }
+
+  /* line 211, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -o-transform-origin: 286px 79px;
+    -o-transform: rotate(0deg);
+  }
+}
+
+@-moz-keyframes second-arm {
+  /* line 217, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -moz-transform-origin: 286px 79px;
+    -moz-transform: rotate(-10deg);
+  }
+
+  /* line 221, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -moz-transform-origin: 286px 79px;
+    -moz-transform: rotate(0deg);
+  }
+}
+
+@-webkit-keyframes second-arm {
+  /* line 227, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -webkit-transform-origin: 286px 79px;
+    -webkit-transform: rotate(-10deg);
+  }
+
+  /* line 231, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -webkit-transform-origin: 286px 79px;
+    -webkit-transform: rotate(0deg);
+  }
+}
+
+@keyframes mount {
+  /* line 241, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    transform: translate(-11px, 17px);
+  }
+
+  /* line 244, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    transform: translate(-1px, 4px);
+  }
+
+  /* line 247, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@-o-keyframes mount {
+  /* line 252, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -o-transform: translate(-11px, 17px);
+  }
+
+  /* line 255, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -o-transform: translate(-1px, 4px);
+  }
+
+  /* line 258, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -o-transform: translate(0px, 0px);
+  }
+}
+
+@-moz-keyframes mount {
+  /* line 263, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -moz-transform: translate(-11px, 17px);
+  }
+
+  /* line 266, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -moz-transform: translate(-1px, 4px);
+  }
+
+  /* line 269, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -moz-transform: translate(0px, 0px);
+  }
+}
+
+@-webkit-keyframes mount {
+  /* line 274, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -webkit-transform: translate(-11px, 17px);
+  }
+
+  /* line 277, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -webkit-transform: translate(-1px, 4px);
+  }
+
+  /* line 280, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -webkit-transform: translate(0px, 0px);
+  }
+}
+
+@keyframes can {
+  /* line 288, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    transform-origin: 195px 58px;
+    transform: rotate(-35deg);
+  }
+
+  /* line 292, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    transform-origin: 188px 40px;
+    transform: rotate(-26deg);
+  }
+
+  /* line 296, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    transform-origin: 188px 40px;
+    transform: rotate(0);
+  }
+}
+
+@-o-keyframes can {
+  /* line 302, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -o-transform-origin: 195px 58px;
+    -o-transform: rotate(-35deg);
+  }
+
+  /* line 306, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -o-transform-origin: 188px 40px;
+    -o-transform: rotate(-26deg);
+  }
+
+  /* line 310, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -o-transform-origin: 188px 40px;
+    -o-transform: rotate(0);
+  }
+}
+
+@-moz-keyframes can {
+  /* line 316, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -moz-transform-origin: 195px 58px;
+    -moz-transform: rotate(-35deg);
+  }
+
+  /* line 320, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -moz-transform-origin: 188px 40px;
+    -moz-transform: rotate(-26deg);
+  }
+
+  /* line 324, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -moz-transform-origin: 188px 40px;
+    -moz-transform: rotate(0);
+  }
+}
+
+@-webkit-keyframes can {
+  /* line 330, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    -webkit-transform-origin: 195px 58px;
+    -webkit-transform: rotate(-35deg);
+  }
+
+  /* line 334, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  25% {
+    -webkit-transform-origin: 188px 40px;
+    -webkit-transform: rotate(-26deg);
+  }
+
+  /* line 338, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    -webkit-transform-origin: 188px 40px;
+    -webkit-transform: rotate(0);
+  }
+}
+
+@keyframes bulbcolor {
+  /* line 348, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 352, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 356, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    fill: #f7edba;
+    stroke: #edde8b;
+  }
+}
+
+@-o-keyframes bulbcolor {
+  /* line 362, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 366, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 370, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    fill: #f7edba;
+    stroke: #edde8b;
+  }
+}
+
+@-moz-keyframes bulbcolor {
+  /* line 376, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 380, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 384, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    fill: #f7edba;
+    stroke: #edde8b;
+  }
+}
+
+@-webkit-keyframes bulbcolor {
+  /* line 390, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 394, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    fill: #ffffff;
+    stroke: #4D4D4D;
+  }
+
+  /* line 398, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    fill: #f7edba;
+    stroke: #edde8b;
+  }
+}
+
+@keyframes spotlight {
+  /* line 406, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 409, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    opacity: 0;
+  }
+
+  /* line 412, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100 {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes spotlight {
+  /* line 417, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 420, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    opacity: 0;
+  }
+
+  /* line 423, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes spotlight {
+  /* line 428, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 431, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    opacity: 0;
+  }
+
+  /* line 434, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes spotlight {
+  /* line 439, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 442, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  75% {
+    opacity: 0;
+  }
+
+  /* line 445, /Users/nickkatarow/Sites/SVG-CSS3-Keyframe-Animation/_ui/css/scss/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
